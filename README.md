@@ -1,0 +1,1 @@
+# custom-xcode-shortcuts-adding-script
